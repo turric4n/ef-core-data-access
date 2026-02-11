@@ -8,14 +8,14 @@
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <RootNamespace>EntityFrameworkCore.Repository</RootNamespace>
     <AssemblyName>EntityFrameworkCore.Repository.Abstractions</AssemblyName>
-    <PackageId>EntityFrameworkCore.Data.Repository.Abstractions</PackageId>
-    <Authors>Lima Technology Services;Fernando Luiz de Lima</Authors>
+    <PackageId>EntityFrameworkCore.Data.Repository.Abstractions.Unofficial</PackageId>
+    <Authors>Lima Technology Services;Fernando Luiz de Lima;Enrique Fuentes (Turric4n)</Authors>
     <Copyright>Copyright © Lima Technology Services;Fernando Luiz de Lima</Copyright>
-    <Description>Provides Repository abstractions in order to implement Repository pattern for Microsoft.EntityFrameworkCore.</Description>
-    <PackageProjectUrl>https://github.com/ffernandolima/ef-core-data-access</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/ffernandolima/ef-core-data-access/tree/ef-core-9</RepositoryUrl>
+    <Description>[UNOFFICIAL FORK] Provides Repository abstractions in order to implement Repository pattern for Microsoft.EntityFrameworkCore with .NET 10 support. This is a temporary fork until the official package is updated. Original repository: https://github.com/ffernandolima/ef-core-data-access</Description>
+    <PackageProjectUrl>https://github.com/turric4n/ef-core-data-access</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/turric4n/ef-core-data-access/tree/ef-core-10</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <PackageTags>EntityFrameworkCore;Entity Framework Core;entity-framework-core;EFCore;EF;Data;O/RM;Repository;Abstractions</PackageTags>
+    <PackageTags>EntityFrameworkCore;Entity Framework Core;entity-framework-core;EFCore;EF;Data;O/RM;Repository;Abstractions;unofficial;net10</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Version>10.0.0</Version>
     <LangVersion>latest</LangVersion>
