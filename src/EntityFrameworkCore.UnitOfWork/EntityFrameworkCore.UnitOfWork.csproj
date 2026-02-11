@@ -7,14 +7,14 @@
     <NoWarn>1701;1702;1705;1591</NoWarn>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <AssemblyName>EntityFrameworkCore.UnitOfWork</AssemblyName>
-    <PackageId>EntityFrameworkCore.Data.UnitOfWork</PackageId>
-    <Authors>Lima Technology Services;Fernando Luiz de Lima</Authors>
+    <PackageId>EntityFrameworkCore.Data.UnitOfWork.Unofficial</PackageId>
+    <Authors>Lima Technology Services;Fernando Luiz de Lima and Contributors;Enrique Fuentes (Turric4n)</Authors>
     <Copyright>Copyright © Lima Technology Services;Fernando Luiz de Lima</Copyright>
-    <Description>Provides the UnitOfWork pattern for Microsoft.EntityFrameworkCore.</Description>
-    <PackageProjectUrl>https://github.com/ffernandolima/ef-core-data-access</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/ffernandolima/ef-core-data-access/tree/ef-core-9</RepositoryUrl>
+    <Description>[UNOFFICIAL FORK] Provides the UnitOfWork pattern for Microsoft.EntityFrameworkCore with .NET 10 support. This is a temporary fork until the official package is updated. Original repository: https://github.com/ffernandolima/ef-core-data-access</Description>
+    <PackageProjectUrl>https://github.com/turric4n/ef-core-data-access</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/turric4n/ef-core-data-access/tree/ef-core-10</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <PackageTags>EntityFrameworkCore;Entity Framework Core;entity-framework-core;EFCore;EF;Data;O/RM;UnitOfWork;Unit Of Work;unit-of-work</PackageTags>
+    <PackageTags>EntityFrameworkCore;Entity Framework Core;entity-framework-core;EFCore;EF;Data;O/RM;UnitOfWork;Unit Of Work;unit-of-work;unofficial;net10</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Version>10.0.0</Version>
     <LangVersion>latest</LangVersion>
